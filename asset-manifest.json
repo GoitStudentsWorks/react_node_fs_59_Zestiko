@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_59_Zestiko/static/css/main.8df631af.css",
-    "main.js": "/react_node_fs_59_Zestiko/static/js/main.f55b1a8a.js",
+    "main.js": "/react_node_fs_59_Zestiko/static/js/main.7d230889.js",
     "static/css/317.fa0edfec.chunk.css": "/react_node_fs_59_Zestiko/static/css/317.fa0edfec.chunk.css",
     "static/js/317.f4e41bb2.chunk.js": "/react_node_fs_59_Zestiko/static/js/317.f4e41bb2.chunk.js",
     "static/css/68.ab587ffb.chunk.css": "/react_node_fs_59_Zestiko/static/css/68.ab587ffb.chunk.css",
@@ -61,7 +61,7 @@
     "static/media/burger-menu.svg": "/react_node_fs_59_Zestiko/static/media/burger-menu.f015fa59ca8e2e1fc8ad61b5b9742bd6.svg",
     "static/media/x-close.svg": "/react_node_fs_59_Zestiko/static/media/x-close.a5cfb1d6078b1c62d865bc5fc2672caa.svg",
     "main.8df631af.css.map": "/react_node_fs_59_Zestiko/static/css/main.8df631af.css.map",
-    "main.f55b1a8a.js.map": "/react_node_fs_59_Zestiko/static/js/main.f55b1a8a.js.map",
+    "main.7d230889.js.map": "/react_node_fs_59_Zestiko/static/js/main.7d230889.js.map",
     "317.fa0edfec.chunk.css.map": "/react_node_fs_59_Zestiko/static/css/317.fa0edfec.chunk.css.map",
     "317.f4e41bb2.chunk.js.map": "/react_node_fs_59_Zestiko/static/js/317.f4e41bb2.chunk.js.map",
     "68.ab587ffb.chunk.css.map": "/react_node_fs_59_Zestiko/static/css/68.ab587ffb.chunk.css.map",
@@ -79,6 +79,6 @@
   },
   "entrypoints": [
     "static/css/main.8df631af.css",
-    "static/js/main.f55b1a8a.js"
+    "static/js/main.7d230889.js"
   ]
 }
